@@ -1,2 +1,2 @@
 # Pi-computer
-An application to control the Pi-computer
+The software that controls the Pi-computer
